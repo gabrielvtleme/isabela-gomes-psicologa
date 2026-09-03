@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isabelagomespsicologa.com.br/sitemap.xml
